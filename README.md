@@ -1,4 +1,4 @@
-<h3>Morse-TranslatorPy</h3>
+<h3>Morse TranslatorPy</h3>
 
 <h4>This little program can translate Morse code into text and vice versa</h4>
 
